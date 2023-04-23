@@ -1,32 +1,62 @@
-body {
-    background-color: black;
-    text-align: center;
-    font-family: "Verdana", sans-serif;
+/* body {
+    background-color: #000000;
+    text-align:center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
     color: white;
   }
-  header--main{
+  .header--main{
     font-weight: normal;
     font-size: 50px;
     color: #ffffff;
   }
 
-  header--secondary{
+  .header--secondary{
     font-weight: 300;
     font-size: 42px;
     color: #ffffff;
   }
-  header--sub-header{
+  .header--sub-header{
    
     font-size: 21px;
     color: grey;
   }
 
-  link--cta{
+  .link--cta{
     font-size: 16px;
     color: aquamarine;
   }
-  footer--copyright{
+  .footer--copyright{
     font-size: 21px;
     color: grey;
+    text-align: right;
+  } */
+  body {
+    background-color: black;
+    text-align: center;
+    font-family: "Verdana", sans-serif;
+    color: white;
+  }
+  
+  .cta {
+    color: aquamarine;
+    font-size: 16px;
+  }
+  
+  h1 {
+    font-size: 50px;
+    font-weight: normal;
+  }
+  
+  h2 {
+    font-size: 42px;
+    font-weight: 300;
+  }
+  
+  p {
+    font-size: 21px;
+    color: gray;
+  }
+  
+  .footer {
     text-align: right;
   }
